@@ -1,6 +1,5 @@
 package org.example.hw_books;
 
-// Шаблон для создания объекта
 public class Book implements Displayable {
     private String title;
     private String author;
